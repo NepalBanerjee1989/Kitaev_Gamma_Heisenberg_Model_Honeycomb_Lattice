@@ -11,7 +11,7 @@ C*******************************************************************C
           INTEGER L,LSQ,itmx,itequi,itav,LMAX
           REAL*8 pi,th,phi,S
           PARAMETER(L=30,LSQ=L*L,itmx=900000,!LMAX:Segment_fault
-          &itequi=500000,itav=itmx-itequi,pi=4*atan(1.d0),LMAX=L-10) 
+     &itequi=500000,itav=itmx-itequi,pi=4*atan(1.d0),LMAX=L) 
           INTEGER i,j,temp,tmax,tmin,dt 
           INTEGER ic,id,ip,in,jp,jn,ipp,inn,jl,j3NNNN
           REAL*8 X1J1,X2J1,X3J1,X1J2,X2J2,X3J2,X1J3,X2J3,X3J3
@@ -51,7 +51,7 @@ C         Screen Output for User   C
 C**********************************C
            WRITE(*,29)
            WRITE(*,31) S,X1J1,X2J1,X3J1,X1J2,X2J2,X3J2,X1J3,X2J3,
-           &X3J3,KX,KY,KZ,GamaX,GamaY,GamaZ,LSQ,itmx,itequi
+     &X3J3,KX,KY,KZ,GamaX,GamaY,GamaZ,LSQ,itmx,itequi
            WRITE(*,22)
 
 C----------------------------------C
