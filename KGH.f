@@ -218,16 +218,15 @@ C*********************************C
           dE=(E_flip-E)
           prob=DEXP(-dE/t) 
           CALL RANDOM_NUMBER(r)
-          if(r.le.prob) then
+          IF(r.le.prob) then
           sx(i,j)= flipx(i,j)
           sy(i,j)= flipy(i,j)
           sz(i,j)= flipz(i,j)
-          else
+          ELSE
           sx(i,j)=sx(i,j)
           sy(i,j)=sy(i,j)
           sz(i,j)=sz(i,j)
-          endif
-    
+          ENDIF
           ENDDO
 C**********************************************C
 C******* Averaging after equillibrium *********C
