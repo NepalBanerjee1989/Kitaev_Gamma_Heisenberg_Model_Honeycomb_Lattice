@@ -10,7 +10,7 @@ C*******************************************************************C
           IMPLICIT NONE 
           INTEGER L,LSQ,itmx,itequi,itav,LMAX
           REAL*8 pi,th,phi,S
-          PARAMETER(L=30,LSQ=L*L,itmx=900000,!LMAX:Segment_fault
+          PARAMETER(L=4,LSQ=L*L,itmx=900000,!LMAX:Segment_fault
      &itequi=500000,itav=itmx-itequi,pi=4*atan(1.d0),LMAX=L) 
           INTEGER i,j,temp,tmax,tmin,dt 
           INTEGER ic,id,ip,in,jp,jn,ipp,inn,jl,j3NNNN
@@ -20,7 +20,7 @@ C*******************************************************************C
           REAL*8 flipx(LMAX,LMAX),flipy(LMAX,LMAX),flipz(LMAX,LMAX)
           REAL*8 t,E,E_flip,dE,prob,am1,am2,am3,energy1,energy2
           REAL*8 xm,xm1,xm2,xm3,en,flucM,flucE,UL
-          REAL*8 r1,r2
+          REAL*8 r1,r2,r
 C===================================================C
 C         DATA CARD                                 C
 C===================================================C
