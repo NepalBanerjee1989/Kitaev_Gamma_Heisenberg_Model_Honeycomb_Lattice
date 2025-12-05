@@ -215,14 +215,10 @@ C**** Calculate the spin energy after flipping *********C
 C*********************************C
 C        Flipping Probablity      C
 C*********************************C
-
           dE=(E_flip-E)
           prob=DEXP(-dE/t) 
-          
           CALL RANDOM_NUMBER(r)
-
-
-          if(rand().le.prob) then
+          if(r.le.prob) then
           sx(i,j)= flipx(i,j)
           sy(i,j)= flipy(i,j)
           sz(i,j)= flipz(i,j)
