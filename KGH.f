@@ -39,7 +39,7 @@ C*****************************************
 
          OPEN(4,file='HSO',status='new')
            WRITE(4,*)'#### T #### M #### Chi #### E #### Cv #### U ##'
-         CLOSE(4)
+         CLOSE(4)         
 
          OPEN(5,file='spin_config_ini',status='new')
            WRITE(5,*) ' ## i ##  j ## Sx ## Sy ## Sz ## '
@@ -270,7 +270,7 @@ C**********************************************C
 
      &  +GamaX*(flipy(i,j)*sz(ip,j)+sy(ip,j)*flipz(i,j))        !GammaX
      &  +GamaY*(flipx(i,j)*sz(in,j)+sx(in,j)*flipz(i,j))        !GammaY
-     &  +GamaZ*(flipx(i,j)*sy(i,jl)+sx(i,jl)*flipy(i,j)) )      !GammaZ
+     &  +GamaZ*(flipx(i,j)*sy(i,jl)+sx(i,jl)*flipy(i,j)))       !GammaZ
 
       ENDDO
       ENDDO
@@ -303,10 +303,9 @@ C**********************************************C
 
 C***** Writing the Data File ****************C
 
-      OPEN(4,file='HSO',status='old')
-      call fseek(4,0,2)
+      OPEN(4,file='HSO',status='old',POSITION='APPEND')
       WRITE(4,*)t,am1,flucM,energy1,flucE,UL
-
+      CLOSE(4)     
 C**************************************************************C
 C******* This file is for spin dynamics during transition *****C
 C**************************************************************C
@@ -352,17 +351,17 @@ C*****CONTAINS SUBROUTINE **************C
         if(i.eq.L)ipp=2
         if(i.eq.1)inn=L-1
  
-       if (mod(i+j,2)==0) then
+        IF (mod(i+j,2)==0) THEN
           jl=j+1
           j3NNNN=j-1
           if(j.eq.L)jl=1
           if(j.eq.1)j3NNNN=L
-       else
+        ELSE
           jl=j-1
           j3NNNN=j+1
           if(j.eq.1)jl=L
           if(j.eq.L)j3NNNN=1
-       endif
+        ENDIF
  
        RETURN
        END
