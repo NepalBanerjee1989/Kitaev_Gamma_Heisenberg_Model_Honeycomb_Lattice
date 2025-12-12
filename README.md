@@ -4,3 +4,30 @@ Here, we use the parameters J1=0.1(FM), J2=0, J3=-0.2, K=1.0(FM), and Gamma=0.4(
 Here we have used the Fortran 77 language and the gfortran compiler for developing the project, and used Python for analysing the data.
 We also simulated the Classical Z2 spin liquid using our simulation in the pure Kitaev limit, where K=4.0, J=Gamma=0.
 We notice a micro-vortex state from real space spin configuration and confirmed that an exotic phase of matter using the static spin structure factor calculation, which clearly revealed the existence of the classical Z2 spin liquid at temperature T=0.01.
+
+We also observed classical frustrated induced U(1) gauge like spin liquid in purely Heisenberg limit.We use the J2=J3=J1/2 combination for simulating this frustrated spin liquid.Here we observed the spin liquid ground state and pinch point singularity at static structure factor S(q).
+
+Here we also proposed a Hamiltonian which can coupled this two extreme limiting phase with a interpolating Hamiltonian with a tunning parameter "g" which can capture the phase transition from classical U(1) gauge spin liquid to classical Z2flux spin liquid.
+
+Hamiltonian of our combined system:
+H(g)=(1-g)*H_{Heisenberg} +g*H_{Kitaev}
+
+When g=0 it is purely Heisenberg .When g=1 it is purely Kitaev like.
+
+
+In intermidate coupling g=1/2 we notice a Zigzag-AFM ground state.Our observation find good agreement with the literature :
+
+Reference:
+
+1)Kitaev-Heisenberg Model on a Honeycomb Lattice:Possible Exotic Phases in Iridium Oxides A2IrO3.
+Author:-Jiri Chaloupka,George Jackeli,and Giniyat Khaliullin
+
+2)Quantum phase transition in Heisenberg-Kitaev model.
+Author:-Robert Schaffer, Subhro Bhattacharjee, and Yong Baek Kim 
+
+3)Spin-S Kitaev model: Classical ground states, order from disorder,
+and exact correlation functions.
+Author:-G.Baskaran, Diptiman Sen,and R. Shankar
+
+
+We will intriduce further disorder effect like bond random disorder  and site impurity effect like quench disorder in this model.
