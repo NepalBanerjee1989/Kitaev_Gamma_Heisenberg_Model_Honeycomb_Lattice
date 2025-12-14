@@ -38,24 +38,24 @@ In intermidate coupling g=1/2 we notice a Zigzag-AFM ground state.Our observatio
 
 Reference:-
 ----------------------------------------------------------------------------
-1)Kitaev-Heisenberg Model on a Honeycomb Lattice:Possible Exotic Phases in Iridium Oxides A2IrO3.
-Author:-Jiri Chaloupka,George Jackeli,and Giniyat Khaliullin
+1)Kitaev-Heisenberg Model on a Honeycomb Lattice:Possible Exotic Phases in Iridium Oxides A2IrO3.\
+Authors:-Jiri Chaloupka,George Jackeli,and Giniyat Khaliullin
 
-2)Quantum phase transition in Heisenberg-Kitaev model.
-Author:-Robert Schaffer, Subhro Bhattacharjee, and Yong Baek Kim 
+2)Quantum phase transition in Heisenberg-Kitaev model.\
+Authors:-Robert Schaffer, Subhro Bhattacharjee, and Yong Baek Kim 
 
 3)Spin-S Kitaev model: Classical ground states, order from disorder,
-and exact correlation functions.
-Author:-G.Baskaran, Diptiman Sen,and R. Shankar
+and exact correlation functions.\
+Authors:-G.Baskaran, Diptiman Sen,and R. Shankar
 
-4)Neutron scattering in the proximate quantum spin liquid a-RuCl3.
-Author:-Arnab Banerjee,Jiaqiang Yan,Johannes Knolle,Craig A. Bridges,Matthew B. Stone,Mark D. Lumsden,David G. Mandrus,David A. Tennant,Roderich Moessner,Stephen E. Nagler
+4)Neutron scattering in the proximate quantum spin liquid a-RuCl3.\
+Authors:-Arnab Banerjee,Jiaqiang Yan,Johannes Knolle,Craig A. Bridges,Matthew B. Stone,Mark D. Lumsden,David G. Mandrus,David A. Tennant,Roderich Moessner,Stephen E. Nagler
 
-5)Monoclinic crystal structure of α-RuCl 3 and the zigzag antiferromagnetic ground state.
-Author:-R.D.Johnson,S.C.Williams,A.A.Haghighirad,J.Singleton,V.Zapf,P.Manuel,I.I.Mazin,Y.Li,H.O.Jeschke,R.Valentı́,and R.Coldea
+5)Monoclinic crystal structure of α-RuCl 3 and the zigzag antiferromagnetic ground state.\
+Authors:-R.D.Johnson,S.C.Williams,A.A.Haghighirad,J.Singleton,V.Zapf,P.Manuel,I.I.Mazin,Y.Li,H.O.Jeschke,R.Valentı́,and R.Coldea
 
-6)Classical Spin Liquid on the Maximally Frustrated Honeycomb Lattice.
-Author:-J.Rehn,Arnab Sen,Kedar Damle,and R. Moessner
+6)Classical Spin Liquid on the Maximally Frustrated Honeycomb Lattice.\
+Authors:-J.Rehn,Arnab Sen,Kedar Damle,and R. Moessner
 
 ----------------------------------------------------------------------------
 
