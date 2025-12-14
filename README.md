@@ -21,10 +21,10 @@ We also simulated the Classical Z2 spin liquid using our simulation in the pure 
 4)We also observed classical frustrated induced U(1) gauge like spin liquid in purely Heisenberg limit.We use the exchange parameter J2=J3=J1/2 combination for simulating this frustrated spin liquid.Here we observed the spin liquid ground state with real space spin configuration and with a pinch point singularity atstatic structure factor S(q).
 
 5)Here we also proposed a Hamiltonian which can coupled this two extreme limiting phase with a interpolating Hamiltonian with a tunning parameter "g" which can capture the phase transition from classical U(1) gauge spin liquid to classical Z2 flux spin liquid.
+
 ---------------------------------------------------------------------------
-
-Hamiltonian of our combined system:-
-
+---------------------------------------------------------------------------
+ Hamiltonian of our combined system:-
 ----------------------------------------------------------------------------
  H(g)=(1-g)*H_{Heisenberg} +g*H_{Kitaev}
 
@@ -62,7 +62,7 @@ Future Plan:-
 1)We will introduce further disorder effect like bond random disorder  and site impurity effect like quench disorder in this model.
 2)We will apply our understanding in other model system.
 
---------------------------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------ 
 Copy Right:-Nepal Banerjee,2025,"All Rights Reserved".
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
