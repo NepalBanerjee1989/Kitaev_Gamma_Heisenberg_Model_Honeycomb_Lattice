@@ -37,7 +37,7 @@ Here "g" is a tunning parameter.When g=0 it is purely Heisenberg.When g=1 it is 
 In intermidate coupling g=1/2 we notice a Zigzag-AFM ground state.Our observation find good agreement with the following literature :
 
 Reference:-
-----------
+----------------------------------------------------------------------------
 1)Kitaev-Heisenberg Model on a Honeycomb Lattice:Possible Exotic Phases in Iridium Oxides A2IrO3.
 Author:-Jiri Chaloupka,George Jackeli,and Giniyat Khaliullin
 
@@ -48,8 +48,20 @@ Author:-Robert Schaffer, Subhro Bhattacharjee, and Yong Baek Kim
 and exact correlation functions.
 Author:-G.Baskaran, Diptiman Sen,and R. Shankar
 
+4)Neutron scattering in the proximate quantum spin liquid a-RuCl3.
+Author:-Arnab Banerjee,Jiaqiang Yan,Johannes Knolle,Craig A. Bridges,Matthew B. Stone,Mark D. Lumsden,David G. Mandrus,David A. Tennant,Roderich Moessner,Stephen E. Nagler
+
+5)Monoclinic crystal structure of α-RuCl 3 and the zigzag antiferromagnetic ground state.
+Author:-R.D.Johnson,S.C.Williams,A.A.Haghighirad,J.Singleton,V.Zapf,P.Manuel,I.I.Mazin,Y.Li,H.O.Jeschke,R.Valentı́,and R.Coldea
+
+6)Classical Spin Liquid on the Maximally Frustrated Honeycomb Lattice.
+Author:-J.Rehn,Arnab Sen,Kedar Damle,and R. Moessner
+
+----------------------------------------------------------------------------
+
+
 Future Plan:-
-------------
+---------------------------------------------------------------------------
 1)We will introduce further disorder effect like bond random disorder  and site impurity effect like quench disorder in this model.
 2)We will apply our understanding in other model system.
 
