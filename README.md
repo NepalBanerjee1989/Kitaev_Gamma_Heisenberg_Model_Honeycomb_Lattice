@@ -4,7 +4,7 @@
 ----------------------------------------------------------------------------
 Author:-Nepal Banerjee,Department of Physics,University of Seoul,Seoul,South-Korea
 
-Contact: Email Id :nepalbanerjee36@gmail.com/nb.uos1989@gmail.com
+Contact: Email Id :nepalbanerjee36@gmail.com/nb.uos1989@gmail.com\
          Mob Number:+91-9816075495/+91-9474172495/+91-8250773046
          
 --------------------------------------------------------------------------------------------------------------------------------------------------------
