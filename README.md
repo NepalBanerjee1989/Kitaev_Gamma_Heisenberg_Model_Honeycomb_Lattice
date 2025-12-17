@@ -73,5 +73,23 @@ Copyright (c) 2025-2026 Nepal Banerjee. All rights reserved.
 
  Copy Right statement:                                    
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-A copyright is a notice stating that this content (code,text, images,video) is my intellectual property, preventing unauthorized use and clarifying ownership. it acts as a "No Trespassing" sign for my work,discouraging theft and helping with legal claims.For using others' work (like in videos), a "Fair Use" disclaimer citing Section 107 of theCopyright Act can justify limited use for education,commentary,etc.,but always credit the original owner.Github preserve and apply this copy right rules of intellectual properties strictly.With out permission of owner, using all this code,change and re-distribution of code is not allowed and consider as illegal,crime and punishable offence under the strict govt rules and regulation.
+Copyright © 2025 Nepal Banerjee
+
+All rights reserved.
+
+This repository, including but not limited to source code, algorithms,
+simulation methods, documentation, figures, and data, constitutes
+original intellectual property of the author.
+
+No part of this work may be copied, modified, distributed, published,
+or used for commercial or academic purposes without explicit prior
+written permission from the author.
+
+Unauthorized reproduction or misappropriation of this work may
+constitute copyright infringement under applicable national and
+international copyright laws.
+
+For permissions, collaboration, or licensing inquiries, please contact:
+nepalbanerjee36@gmail.com
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
