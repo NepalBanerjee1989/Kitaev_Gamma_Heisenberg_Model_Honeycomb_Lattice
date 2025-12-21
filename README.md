@@ -73,7 +73,7 @@ Copyright (c) 2025-2026 Nepal Banerjee. All rights reserved.
 
  Copy Right statement:                                    
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Copyright © 2025 Nepal Banerjee
+Copyright © 2025-2026 Nepal Banerjee
 
 All rights reserved.
 
