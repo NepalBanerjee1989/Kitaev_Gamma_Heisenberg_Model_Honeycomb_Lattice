@@ -4,9 +4,12 @@
 ----------------------------------------------------------------------------
 Author:-Nepal Banerjee,Department of Physics,University of Seoul,Seoul,South-Korea
 
-Contact: Email Id :nepalbanerjee36@gmail.com/nb.uos1989@gmail.com
+Contact: Email Id :nepalbanerjee36@gmail.com/nb.uos1989@gmail.com\
          Mob Number:+91-9816075495/+91-9474172495/+91-8250773046
          
+
+Copyright (c) 2025-2026 Nepal Banerjee. All rights reserved.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 1)Here we have simulated the Kitaev-Gamma-Heisenberg Model for simulating the 2D  VdW material Alpha-RuCl3 using classical Monte-Carlo.Here we have predicted transition temperature T=6.5K, which is very close to experimental results reported on this material, which is 7-8K. Here, we also noticed the Classical Z2 spin liquid in the pure Kitaev limit.
@@ -63,11 +66,28 @@ Future Plan:-
 2)We will apply our understanding in other model system.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------ 
-Copy Right:-Nepal Banerjee,2025,"All Rights Reserved".
+Copyright (c) 2025-2026 Nepal Banerjee. All rights reserved.
+
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
- Disclaimer Copy Right Rules statement:                                    
+ Copy Right statement:                                    
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-A copyright disclaimer is a notice stating that your content (code,text, images,video) is your intellectual property, preventing unauthorized use and clarifying ownership. it acts as a "No Trespassing" sign for your work,discouraging theft and helping with legal claims.For using others' work (like in videos), a "Fair Use" disclaimer citing Section 107 of theCopyright Act can justify limited use for education,commentary,etc.,but always credit the original owner.Github preserve and apply this copy right rules of intellectual properties strictly.With out permission of owner, using all this code,change and re-distribution of code is not allowed and consider as illegal,crime and punishable offence under the govt rules and regulation.
+Copyright © 2025-2026 Nepal Banerjee.All rights reserved.
+
+This repository, including but not limited to source code, algorithms,
+simulation methods, documentation, figures, and data, constitutes
+original intellectual property of the author.
+
+No part of this work may be copied, modified, distributed, published,
+or used for commercial or academic purposes without explicit prior
+written permission from the author.
+
+Unauthorized reproduction or misappropriation of this work may
+constitute copyright infringement under applicable national and
+international copyright laws.
+
+For permissions, collaboration, or licensing inquiries, please contact:
+nepalbanerjee36@gmail.com
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
