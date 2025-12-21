@@ -73,9 +73,7 @@ Copyright (c) 2025-2026 Nepal Banerjee. All rights reserved.
 
  Copy Right statement:                                    
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-Copyright © 2025-2026 Nepal Banerjee
-
-All rights reserved.
+Copyright © 2025-2026 Nepal Banerjee.All rights reserved.
 
 This repository, including but not limited to source code, algorithms,
 simulation methods, documentation, figures, and data, constitutes
