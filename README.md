@@ -29,7 +29,7 @@ We also simulated the Classical Z2 spin liquid using our simulation in the pure 
 ---------------------------------------------------------------------------
  Hamiltonian of our combined system:-
 ----------------------------------------------------------------------------
- H(g)=(1-g)*H_{Heisenberg} +g*H_{Kitaev}
+ H(g)=(1-g)*H(Heisenberg) +g*H(Kitaev)
 
 ---------------------------------------------------------------------------
 
